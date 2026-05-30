@@ -25,7 +25,21 @@ USER = os.environ.get("GH_USER", "vladimir120307-droid")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 START_MARK = "<!-- STATS:START -->"
 END_MARK = "<!-- STATS:END -->"
+COUNTERS_START = "<!-- COUNTERS:START -->"
+COUNTERS_END = "<!-- COUNTERS:END -->"
 API = "https://api.github.com"
+
+# Empirical avg bytes per line of code for popular languages.
+# Used to convert GitHub /languages (which returns byte counts) into ~LOC.
+LANG_BPL = {
+    "Python": 35, "JavaScript": 30, "TypeScript": 32, "Rust": 35,
+    "Go": 30, "C": 28, "C++": 30, "Java": 35, "Dart": 32, "C#": 35,
+    "HTML": 50, "CSS": 35, "SCSS": 35, "Shell": 28, "Ruby": 28,
+    "PHP": 35, "Swift": 35, "Kotlin": 35, "Vue": 35, "Svelte": 35,
+    "YAML": 30, "JSON": 50, "Markdown": 60, "Dockerfile": 30,
+    "Makefile": 30, "Solidity": 35, "Lua": 28, "PowerShell": 35,
+}
+DEFAULT_BPL = 33
 
 if not TOKEN:
     print("ERROR: GH_TOKEN / GITHUB_TOKEN env var required", file=sys.stderr)
@@ -67,10 +81,7 @@ def list_repos() -> list[dict]:
         if len(chunk) < 100:
             break
         page += 1
-    return [
-        r for r in repos
-        if not r.get("fork") and not r.get("archived") and not r.get("private")
-    ]
+    return [r for r in repos if not r.get("fork") and not r.get("archived")]
 
 
 def merge_traffic(history: dict, repo_name: str, kind: str, payload: dict | None):
@@ -126,20 +137,38 @@ def main() -> None:
     if HISTORY_FILE.exists():
         history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
 
-    repos = list_repos()
-    print(f"Found {len(repos)} non-fork, non-archived repos owned by {USER}")
+    all_repos = list_repos()
+    public_repos = [r for r in all_repos if not r.get("private")]
+    print(
+        f"Found {len(all_repos)} non-fork, non-archived repos owned by {USER} "
+        f"({len(public_repos)} public)"
+    )
 
     total_stars = 0
     total_forks = 0
     total_release_dl = 0
+    total_bytes = 0
+    total_loc = 0
+    lang_bytes: dict[str, int] = {}
     per_repo_views_14d: list[tuple[str, int, int]] = []  # name, count, uniques
 
-    for repo in repos:
+    for repo in all_repos:
         owner = repo["owner"]["login"]
         name = repo["name"]
         full = f"{owner}/{name}"
+        is_public = not repo.get("private")
         total_stars += repo.get("stargazers_count", 0)
         total_forks += repo.get("forks_count", 0)
+
+        langs = api(f"/repos/{full}/languages") or {}
+        for lang, b in langs.items():
+            lang_bytes[lang] = lang_bytes.get(lang, 0) + b
+            total_bytes += b
+            total_loc += round(b / LANG_BPL.get(lang, DEFAULT_BPL))
+
+        if not is_public:
+            print(f"  {full}: stars={repo.get('stargazers_count',0)} [private]")
+            continue
 
         views = api(f"/repos/{full}/traffic/views")
         clones = api(f"/repos/{full}/traffic/clones")
@@ -191,7 +220,7 @@ def main() -> None:
     lines.append("  " + shield("🚀 Release Downloads", fmt(total_release_dl), "10b981"))
     lines.append("  " + shield("⭐ Total Stars", fmt(total_stars), "f59e0b"))
     lines.append("  " + shield("🍴 Total Forks", fmt(total_forks), "ef4444"))
-    lines.append("  " + shield("📦 Repositories", str(len(repos)), "8b5cf6"))
+    lines.append("  " + shield("📦 Public Repos", str(len(public_repos)), "8b5cf6"))
     lines.append("</p>")
     lines.append("")
     lines.append("<table>")
@@ -239,23 +268,47 @@ def main() -> None:
 
     block = "\n".join(lines)
 
+    # Counters block — small badges shown in the header area
+    top_lang = max(lang_bytes.items(), key=lambda kv: kv[1])[0] if lang_bytes else "Polyglot"
+    counters_lines = [
+        '<p align="center">',
+        "  " + shield("📦 Projects", str(len(all_repos)), "7c3aed"),
+        "  " + shield("💾 Lines of Code", f"{fmt(total_loc)}+", "1a1b4b"),
+        "  " + shield("🗣️ Languages", str(len(lang_bytes)), "4c1d95"),
+        "  " + shield(f"🥇 Top Lang", top_lang, "a855f7"),
+        "</p>",
+    ]
+    counters_block = "\n".join(counters_lines)
+
     readme = README_FILE.read_text(encoding="utf-8")
-    if START_MARK in readme and END_MARK in readme:
-        before, _, rest = readme.partition(START_MARK)
-        _, _, after = rest.partition(END_MARK)
-        new = f"{before}{START_MARK}\n{block}\n{END_MARK}{after}"
+
+    def replace_between(text: str, start: str, end: str, body: str) -> str:
+        if start in text and end in text:
+            before, _, rest = text.partition(start)
+            _, _, after = rest.partition(end)
+            return f"{before}{start}\n{body}\n{end}{after}"
+        return text
+
+    new = readme
+    if START_MARK in new and END_MARK in new:
+        new = replace_between(new, START_MARK, END_MARK, block)
     else:
-        # First run — append at the end
         new = (
-            f"{readme.rstrip()}\n\n---\n\n## 📊 Live Repository Statistics\n\n"
+            f"{new.rstrip()}\n\n---\n\n## 📊 Live Repository Statistics\n\n"
             f"{START_MARK}\n{block}\n{END_MARK}\n"
         )
+    new = replace_between(new, COUNTERS_START, COUNTERS_END, counters_block)
 
     if new != readme:
         README_FILE.write_text(new, encoding="utf-8")
         print("README updated")
     else:
         print("README unchanged")
+
+    print(
+        f"Counters: projects={len(all_repos)}, LOC~{total_loc:,} "
+        f"({total_bytes/1024/1024:.1f} MiB), languages={len(lang_bytes)}, top={top_lang}"
+    )
 
 
 if __name__ == "__main__":

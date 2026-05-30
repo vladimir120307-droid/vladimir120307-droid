@@ -14,11 +14,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vladimir120307-droid?tab=followers"><img src="https://img.shields.io/github/followers/vladimir120307-droid?style=flat-square&logo=github&label=Followers&color=7c3aed" alt="Followers" /></a>
-  <a href="https://github.com/vladimir120307-droid?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=1a1b4b&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvladimir120307-droid&style=flat-square&logo=github" alt="Repos" /></a>
-  <img src="https://img.shields.io/badge/Projects-40%2B-7c3aed?style=flat-square" alt="Projects" />
-  <img src="https://img.shields.io/badge/Lines+of+Code-100K%2B-7c3aed?style=flat-square" alt="LOC" />
+  <a href="https://github.com/vladimir120307-droid?tab=followers"><img src="https://img.shields.io/github/followers/vladimir120307-droid?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=0d1117" alt="Followers" /></a>
+  <a href="https://github.com/vladimir120307-droid?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=4c1d95&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvladimir120307-droid&style=for-the-badge&logo=github&labelColor=0d1117" alt="Repos" /></a>
 </p>
+
+<!-- COUNTERS:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects-41-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects: 41" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Lines%20of%20Code-334.1k%2B-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Lines of Code: 334.1k+" />
+  <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-22-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 22" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
+</p>
+<!-- COUNTERS:END -->
 
 ---
 
@@ -63,7 +70,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-1.0k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 1.0k" />
   <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-12-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 12" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-3-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 3" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repositories-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Repositories: 14" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
 </p>
 
 <table>
@@ -91,7 +98,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 13:40 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 14:19 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
