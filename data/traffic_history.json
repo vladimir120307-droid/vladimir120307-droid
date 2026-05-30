@@ -1,0 +1,1654 @@
+{
+  "vladimir120307-droid/distributed-task-scheduler": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-22": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 1,
+        "uniques": 1
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/glaz-dyavola": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-18": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-19": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 3,
+        "uniques": 3
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 2,
+        "uniques": 1
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/gov-subsidy-scoring": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-19": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-20": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-21": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 1,
+        "uniques": 1
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/invision-u-scoring": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 1,
+        "uniques": 1
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/mimic": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 298,
+        "uniques": 54
+      },
+      "2026-05-23": {
+        "count": 5,
+        "uniques": 5
+      },
+      "2026-05-24": {
+        "count": 166,
+        "uniques": 36
+      },
+      "2026-05-25": {
+        "count": 18,
+        "uniques": 7
+      },
+      "2026-05-26": {
+        "count": 44,
+        "uniques": 7
+      },
+      "2026-05-27": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-28": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 2,
+        "uniques": 2
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 31,
+        "uniques": 5
+      },
+      "2026-05-23": {
+        "count": 5,
+        "uniques": 2
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-28": {
+        "count": 7,
+        "uniques": 2
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/mneme": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 304,
+        "uniques": 59
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 2,
+        "uniques": 1
+      },
+      "2026-05-27": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 2,
+        "uniques": 2
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 11,
+        "uniques": 3
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/netprobe": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-22": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 2,
+        "uniques": 2
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/realtime-market-dashboard": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-19": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-23": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 3,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/room-tune-engine": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 1,
+        "uniques": 1
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/solana-ai-portfolio-manager": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-18": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-28": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-29": {
+        "count": 2,
+        "uniques": 2
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/tradingview-webhook-bot": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-19": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-20": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-25": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-26": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 1,
+        "uniques": 1
+      }
+    }
+  },
+  "vladimir120307-droid/vladimir120307-droid": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 3,
+        "uniques": 2
+      },
+      "2026-05-19": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-20": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 1,
+        "uniques": 1
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-29": {
+        "count": 1,
+        "uniques": 1
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/wavesight": {
+    "clones": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 2657,
+        "uniques": 153
+      },
+      "2026-05-25": {
+        "count": 74,
+        "uniques": 9
+      },
+      "2026-05-26": {
+        "count": 61,
+        "uniques": 2
+      },
+      "2026-05-27": {
+        "count": 3,
+        "uniques": 3
+      },
+      "2026-05-28": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-29": {
+        "count": 3,
+        "uniques": 3
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-17": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-18": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-21": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 4,
+        "uniques": 1
+      },
+      "2026-05-25": {
+        "count": 12,
+        "uniques": 1
+      },
+      "2026-05-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-28": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-29": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/yandex-music-downloader": {
+    "clones": {
+      "2026-05-16": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-17": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-18": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-19": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-20": {
+        "count": 4,
+        "uniques": 4
+      },
+      "2026-05-21": {
+        "count": 31,
+        "uniques": 14
+      },
+      "2026-05-22": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-23": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-05-24": {
+        "count": 36,
+        "uniques": 19
+      },
+      "2026-05-25": {
+        "count": 10,
+        "uniques": 4
+      },
+      "2026-05-26": {
+        "count": 4,
+        "uniques": 2
+      },
+      "2026-05-27": {
+        "count": 2,
+        "uniques": 2
+      },
+      "2026-05-28": {
+        "count": 21,
+        "uniques": 12
+      },
+      "2026-05-29": {
+        "count": 66,
+        "uniques": 23
+      }
+    },
+    "views": {
+      "2026-05-16": {
+        "count": 737,
+        "uniques": 231
+      },
+      "2026-05-17": {
+        "count": 609,
+        "uniques": 223
+      },
+      "2026-05-18": {
+        "count": 389,
+        "uniques": 167
+      },
+      "2026-05-19": {
+        "count": 373,
+        "uniques": 164
+      },
+      "2026-05-20": {
+        "count": 340,
+        "uniques": 144
+      },
+      "2026-05-21": {
+        "count": 319,
+        "uniques": 129
+      },
+      "2026-05-22": {
+        "count": 484,
+        "uniques": 210
+      },
+      "2026-05-23": {
+        "count": 448,
+        "uniques": 179
+      },
+      "2026-05-24": {
+        "count": 468,
+        "uniques": 172
+      },
+      "2026-05-25": {
+        "count": 418,
+        "uniques": 163
+      },
+      "2026-05-26": {
+        "count": 60,
+        "uniques": 33
+      },
+      "2026-05-27": {
+        "count": 133,
+        "uniques": 57
+      },
+      "2026-05-28": {
+        "count": 140,
+        "uniques": 69
+      },
+      "2026-05-29": {
+        "count": 278,
+        "uniques": 110
+      }
+    }
+  }
+}

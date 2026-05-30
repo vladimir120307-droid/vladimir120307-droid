@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=240&section=header&text=Cyber_Lord&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Quant%20Trading%20%7C%20Embedded%20Systems%20%7C%20FinTech&descAlignY=56&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=260&section=header&text=Cyber_Lord&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20%E2%9A%A1%20Quant%20Trading%20%E2%9A%A1%20Embedded%20%E2%9A%A1%20FinTech&descAlignY=56&descSize=17" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Algorithmic+Trading+%7C+HFT+Systems+%7C+DeFi+Bots;Embedded+Firmware+%7C+IoT+%7C+Low-Latency+Systems;Full-Stack+Development+%7C+7%2B+Languages+%7C+FinTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%E2%9A%A1+Algorithmic+Trading+%7C+HFT+Systems+%7C+DeFi+Bots;%F0%9F%94%A7+Embedded+Firmware+%7C+IoT+%7C+Low-Latency+Systems;%F0%9F%8C%90+Full-Stack+Development+%7C+7%2B+Languages+%7C+FinTech;%F0%9F%9A%80+Building+systems+from+silicon+to+cloud" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/vladimir120307-droid?tab=followers"><img src="https://img.shields.io/github/followers/vladimir120307-droid?style=flat-square&logo=github&label=Followers&color=7c3aed" alt="Followers" /></a>
   <a href="https://github.com/vladimir120307-droid?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=1a1b4b&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvladimir120307-droid&style=flat-square&logo=github" alt="Repos" /></a>
-  <img src="https://img.shields.io/badge/Projects-25%2B-7c3aed?style=flat-square" alt="Projects" />
+  <img src="https://img.shields.io/badge/Projects-40%2B-7c3aed?style=flat-square" alt="Projects" />
   <img src="https://img.shields.io/badge/Lines+of+Code-100K%2B-7c3aed?style=flat-square" alt="LOC" />
 </p>
 
@@ -34,12 +34,68 @@
 ║  🌐 Full-stack web & mobile applications                         ║
 ║  📊 Quantitative analysis & market prediction engines            ║
 ║  🛠️  Low-latency matching engines & HFT infrastructure           ║
-║  🔗 DeFi protocols, MEV bots, on-chain automation               ║
+║  🔗 DeFi protocols, MEV bots, on-chain automation                ║
 ║                                                                  ║
 ║  From microcontrollers to microservices — I build what works.    ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+## 📡 Live Repository Telemetry
+
+> Aggregated daily across **every** public & private repo I own — views, clones, release downloads, stars and forks. GitHub's Traffic API only exposes a rolling 14-day window, so the all-time counters keep accumulating in [`data/traffic_history.json`](data/traffic_history.json) via a scheduled GitHub Action.
+
+<!-- STATS:START -->
+
+<div align="center">
+
+### 📡 Live cross-repo telemetry
+
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-5.3k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 5.3k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-2.1k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 2.1k" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-3.9k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 3.9k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-503-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 503" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-1.0k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 1.0k" />
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-12-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 12" />
+  <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-3-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 3" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repositories-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Repositories: 14" />
+</p>
+
+<table>
+<tr>
+<th align='center'>Window</th>
+<th align='center'>👁️ Views</th>
+<th align='center'>🧬 Unique</th>
+<th align='center'>📥 Clones</th>
+<th align='center'>👤 Unique</th>
+</tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>5,286</td><td align='center'>2,082</td><td align='center'>3,894</td><td align='center'>503</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>5,286</td><td align='center'>2,082</td><td align='center'>3,894</td><td align='center'>503</td></tr>
+</table>
+
+<details>
+<summary><b>🔥 Top 5 repos by views (last 14 days)</b></summary>
+
+| # | Repository | Views | Unique |
+|---|---|---:|---:|
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 5,196 | 2,051 |
+| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 46 | 12 |
+| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 18 | 4 |
+| 4 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 11 | 3 |
+| 5 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 6 | 5 |
+
+</details>
+
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 13:38 UTC</b> · refreshed daily via GitHub Actions</sub>
+
+</div>
+
+<!-- STATS:END -->
 
 ---
 
@@ -145,6 +201,24 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🎵 Most Downloaded
+<a href="https://github.com/vladimir120307-droid/yandex-music-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=yandex-music-downloader&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="yandex-music-downloader" /></a>
+
+<a href="https://github.com/vladimir120307-droid/mimic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=mimic&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="mimic" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Systems & Networking
+<a href="https://github.com/vladimir120307-droid/wavesight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=wavesight&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="wavesight" /></a>
+
+<a href="https://github.com/vladimir120307-droid/glaz-dyavola"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=glaz-dyavola&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="glaz-dyavola" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📈 Trading & FinTech
 <a href="https://github.com/vladimir120307-droid/tradingview-webhook-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=tradingview-webhook-bot&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="tradingview-webhook-bot" /></a>
 
@@ -153,8 +227,8 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Systems & Networking
-<a href="https://github.com/vladimir120307-droid/netprobe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=netprobe&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="netprobe" /></a>
+### 🧠 AI & Distributed
+<a href="https://github.com/vladimir120307-droid/mneme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=mneme&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="mneme" /></a>
 
 <a href="https://github.com/vladimir120307-droid/distributed-task-scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir120307-droid&repo=distributed-task-scheduler&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="distributed-task-scheduler" /></a>
 
@@ -164,8 +238,17 @@
 </div>
 
 <details>
-<summary><b>📦 All Projects (25+ repositories)</b></summary>
+<summary><b>📦 All Projects (40+ repositories)</b></summary>
 <br>
+
+#### 🎵 Media & Tools
+| Project | Stack | Description |
+|---------|-------|-------------|
+| `yandex-music-downloader` | Python + Chrome Ext | Универсальный загрузчик музыки и видео для Я.Музыки, YouTube, SoundCloud, VK и 1800+ сайтов |
+| `mimic` | Python / C++ | Record screen → working code. Flutter, HTML, React with Material 3 + Tailwind |
+| `glaz-dyavola` | Python | OSINT-инструмент с RU-контуром: ЕГРЮЛ/ФССП/VK/Telegram + 65 regex-паттернов |
+| `wavesight` | Rust | WiFi & UWB sensing platform — presence, motion, breath without cameras |
+| `mneme` | Python | Local-first AI agent с долговременной памятью на любой LLM |
 
 #### 🤖 Algorithmic Trading Bots
 | Project | Stack | Description |
@@ -186,6 +269,7 @@
 | `hft-orderbook-engine` | Rust | Lock-free HFT order book with SPSC queues |
 | `fastapi-trading-platform` | Python / FastAPI | Trading platform with Binance, Stripe, Telegram |
 | `trading-command-center` | Python, React | Centralized dashboard for all trading bots |
+| `solana-ai-portfolio-manager` | TypeScript | Autonomous DeFi portfolio manager on Solana |
 
 #### 📱 Applications
 | Project | Stack | Description |
@@ -194,11 +278,13 @@
 | `qt-system-monitor` | C++ / Qt6 | Cross-platform system monitor with charts |
 | `driver-updater` | C# / WPF | Windows driver updater with WMI scanning |
 | `meltdown_steps` | Dart / Flutter | Step tracking with Health Connect |
+| `room-tune-engine` | TypeScript | Browser-based room acoustic measurement and PEQ |
 
 #### 🔧 Embedded & IoT
 | Project | Stack | Description |
 |---------|-------|-------------|
 | `esp32-smart-controller` | C/C++ / ESP32 | IoT controller with MQTT, OLED, web dashboard |
+| `tunerx` / `ecu-flasher` | Python | Professional ECU tuning & flashing tool |
 | `DeviationHeatMapPlugin` | C++ | Custom deviation heatmap visualization plugin |
 
 </details>
@@ -224,6 +310,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladimir120307-droid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed" alt="Activity Graph" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladimir120307-droid/vladimir120307-droid/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladimir120307-droid/vladimir120307-droid/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/vladimir120307-droid/vladimir120307-droid/output/snake.svg" alt="contribution snake" />
+</picture>
 
 ---
 
