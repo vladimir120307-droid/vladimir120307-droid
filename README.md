@@ -1,10 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=260&section=header&text=Cyber_Lord&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20%E2%9A%A1%20Quant%20Trading%20%E2%9A%A1%20Embedded%20%E2%9A%A1%20FinTech&descAlignY=56&descSize=17" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=260&section=header&text=Cyber_Lord&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=34&desc=Automotive%20ECU%20%E2%9A%A1%20Reverse%20Engineering%20%E2%9A%A1%20Embedded%20%E2%9A%A1%20Quant%20Trading&descAlignY=56&descSize=17" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&height=36&lines=%E2%9A%A1+Algorithmic+Trading+%7C+HFT+Systems+%7C+DeFi+Bots;%F0%9F%94%A7+Embedded+Firmware+%7C+IoT+%7C+Low-Latency+Systems;%F0%9F%8C%90+Full-Stack+Development+%7C+7%2B+Languages+%7C+FinTech;%F0%9F%9A%80+Building+systems+from+silicon+to+cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&height=36&lines=%F0%9F%9A%97+Automotive+ECU+Tuning+%7C+Flashing+%7C+CAN%2FUDS%2FOBD-II;%F0%9F%94%AC+Binary+Reverse+Engineering+%7C+Firmware+Patching+%7C+Ghidra%2FIDA;%E2%9A%A1+Algorithmic+Trading+%7C+HFT+Systems+%7C+DeFi+Bots;%F0%9F%94%A7+Embedded+Firmware+%7C+ESP32%2FSTM32+%7C+Low-Latency+RTOS;%F0%9F%8C%90+Full-Stack+Development+%7C+7%2B+Languages+%7C+FinTech;%F0%9F%9A%80+Building+systems+from+silicon+to+cloud" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%97%20Automotive-Pro-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="Automotive: Pro" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%AC%20Reverse%20Engineering-Binary%20Wizard-4c1d95?style=for-the-badge&labelColor=0d1117" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A7%20Embedded%20Firmware-RTOS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Embedded" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%88%20Quant%20%26%20HFT-Production-a855f7?style=for-the-badge&labelColor=0d1117" alt="Quant" />
+</p>
 
 <br>
 
@@ -34,19 +41,32 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║  Independent developer building high-performance systems:        ║
+║  Independent engineer building high-performance, low-level       ║
+║  systems for industries that don't tolerate bugs:                ║
 ║                                                                  ║
-║  ⚡ Algorithmic trading bots for crypto, forex, stocks           ║
-║  🔧 Embedded firmware for ESP32, Arduino, Raspberry Pi           ║
-║  🌐 Full-stack web & mobile applications                         ║
-║  📊 Quantitative analysis & market prediction engines            ║
-║  🛠️  Low-latency matching engines & HFT infrastructure           ║
+║  🚗 Automotive ECU tuning, flashing & remapping                  ║
+║       └ CAN / UDS / KWP2000 / OBD-II / J1939 / DoIP              ║
+║       └ Bench / OBD / BDM / boot-mode flashing                   ║
+║       └ Custom maps, DPF/EGR/AdBlue off, immobilizer work        ║
+║                                                                  ║
+║  🔬 Reverse engineering & binary analysis                        ║
+║       └ Firmware unpacking, patching, signature bypass           ║
+║       └ Ghidra / IDA Pro / Radare2 / Binary Ninja                ║
+║       └ ARM / Tricore / PowerPC / RH850 / x86 disassembly        ║
+║                                                                  ║
+║  ⚡ Algorithmic trading & HFT — crypto, forex, options, futures  ║
+║  🔧 Embedded firmware — ESP32, STM32, Arduino, FreeRTOS          ║
+║  📊 Quantitative ML — LSTM / Transformer market prediction       ║
 ║  🔗 DeFi protocols, MEV bots, on-chain automation                ║
+║  🌐 Full-stack web & mobile applications                         ║
 ║                                                                  ║
-║  From microcontrollers to microservices — I build what works.    ║
+║  Trusted by tuning studios & automotive shops across the CIS.    ║
+║  From silicon to cloud — I build what works.                     ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+> 💼 **Open for commercial work**: ECU calibration, custom flashing tools, OEM protocol reversing, embedded firmware contracts, NDA welcome. → [Vladimir120307@gmail.com](mailto:Vladimir120307@gmail.com)
 
 ---
 
@@ -98,7 +118,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 14:19 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 14:23 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
@@ -197,7 +217,82 @@
 
 </td>
 </tr>
+<tr>
+<td align="center">
+
+### 🚗 Automotive & ECU
+<img src="https://img.shields.io/badge/CAN_Bus-D32F2F?style=flat-square&logoColor=white" alt="CAN" />
+<img src="https://img.shields.io/badge/UDS_ISO--14229-455A64?style=flat-square&logoColor=white" alt="UDS" />
+<img src="https://img.shields.io/badge/OBD--II-1976D2?style=flat-square&logoColor=white" alt="OBD-II" />
+<img src="https://img.shields.io/badge/KWP2000-37474F?style=flat-square&logoColor=white" alt="KWP2000" />
+<br>
+<img src="https://img.shields.io/badge/J1939-6D4C41?style=flat-square&logoColor=white" alt="J1939" />
+<img src="https://img.shields.io/badge/DoIP-263238?style=flat-square&logoColor=white" alt="DoIP" />
+<img src="https://img.shields.io/badge/Bosch_EDC17-E10600?style=flat-square&logoColor=white" alt="EDC17" />
+<img src="https://img.shields.io/badge/MED17-E10600?style=flat-square&logoColor=white" alt="MED17" />
+<br>
+<img src="https://img.shields.io/badge/TunerPro-1565C0?style=flat-square&logoColor=white" alt="TunerPro" />
+<img src="https://img.shields.io/badge/WinOLS-FF6F00?style=flat-square&logoColor=white" alt="WinOLS" />
+<img src="https://img.shields.io/badge/ECM_Titanium-6A1B9A?style=flat-square&logoColor=white" alt="ECM Titanium" />
+<img src="https://img.shields.io/badge/PCMFlash-00838F?style=flat-square&logoColor=white" alt="PCMFlash" />
+
+</td>
+<td align="center">
+
+### 🔬 Reverse Engineering & Binary
+<img src="https://img.shields.io/badge/Ghidra-FF6B35?style=flat-square&logoColor=white" alt="Ghidra" />
+<img src="https://img.shields.io/badge/IDA_Pro-313131?style=flat-square&logoColor=white" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/Radare2-5C5C5C?style=flat-square&logoColor=white" alt="Radare2" />
+<img src="https://img.shields.io/badge/Binary_Ninja-00B4D8?style=flat-square&logoColor=white" alt="Binary Ninja" />
+<br>
+<img src="https://img.shields.io/badge/x64dbg-555555?style=flat-square&logoColor=white" alt="x64dbg" />
+<img src="https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="GDB" />
+<img src="https://img.shields.io/badge/OpenOCD-228B22?style=flat-square&logoColor=white" alt="OpenOCD" />
+<img src="https://img.shields.io/badge/J--Link-CC0000?style=flat-square&logoColor=white" alt="J-Link" />
+<br>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM" />
+<img src="https://img.shields.io/badge/Tricore-1E3A8A?style=flat-square&logoColor=white" alt="Tricore" />
+<img src="https://img.shields.io/badge/PowerPC-FCD116?style=flat-square&logoColor=black" alt="PowerPC" />
+<img src="https://img.shields.io/badge/RH850-CC0000?style=flat-square&logoColor=white" alt="RH850" />
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🚗 Specializations — Automotive & Binary Engineering
+
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ ECU Tuning & Flashing
+Custom maps, performance remaps, DPF/EGR/AdBlue solutions, stage tuning for diesel & petrol engines. Bench / OBD / BDM / boot-mode flashing across Bosch EDC15/EDC17/MED17, Siemens, Delphi, Continental, Denso.
+
+**Stack:** [`tunerx`](https://github.com/vladimir120307-droid/tunerx) · [`ecu-flasher`](https://github.com/vladimir120307-droid/ecu-flasher) · Python · WinOLS · TunerPro
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔬 Firmware Reversing
+Disassembling proprietary firmware blobs, finding maps & checksums, patching binaries, bypassing signature checks. Work with Tricore, ARM Cortex-M/R, PowerPC, RH850 architectures used by modern automotive controllers.
+
+**Stack:** Ghidra · IDA Pro · Radare2 · Binary Ninja · GDB · OpenOCD
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🚌 Automotive Protocols
+Production-grade implementations for CAN-bus, UDS (ISO 14229), KWP2000, J1939, OBD-II, DoIP. Custom diagnostic & flashing tools for tuning studios and service shops. Integration with Vector CAN hardware, PCAN, J2534 pass-thru.
+
+**Stack:** C / C++ / Python · python-can · socketcan · J2534 · Vector CANoe
+
+</td>
+</tr>
+</table>
+
+> 🏭 **Commercial track record**: tooling delivered to multiple tuning studios & automotive service shops across the CIS. NDA-covered work not listed publicly.
 
 ---
 
