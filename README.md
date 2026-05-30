@@ -21,7 +21,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects-41-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects: 41" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Lines%20of%20Code-334.1k%2B-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Lines of Code: 334.1k+" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Lines%20of%20Code-334.2k%2B-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Lines of Code: 334.2k+" />
   <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-22-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 22" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
