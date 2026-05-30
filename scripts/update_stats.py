@@ -272,11 +272,12 @@ def main() -> None:
     top_lang = max(lang_bytes.items(), key=lambda kv: kv[1])[0] if lang_bytes else "Polyglot"
     counters_lines = [
         '<p align="center">',
-        "  " + shield("📦 Projects", str(len(all_repos)), "7c3aed"),
-        "  " + shield("💾 Lines of Code", f"{fmt(total_loc)}+", "1a1b4b"),
+        "  " + shield("📦 Projects on GitHub", str(len(all_repos)), "7c3aed"),
+        "  " + shield("💾 Code on GitHub", f"{fmt(total_loc)}+ lines", "1a1b4b"),
         "  " + shield("🗣️ Languages", str(len(lang_bytes)), "4c1d95"),
         "  " + shield(f"🥇 Top Lang", top_lang, "a855f7"),
         "</p>",
+        '<p align="center"><sub>Counted across <b>all</b> my non-fork repos on GitHub — public + private — via the <code>/languages</code> API.</sub></p>',
     ]
     counters_block = "\n".join(counters_lines)
 

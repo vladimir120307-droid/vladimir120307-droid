@@ -27,11 +27,12 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects-41-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects: 41" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Lines%20of%20Code-334.2k%2B-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Lines of Code: 334.2k+" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-41-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 41" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-334.4k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 334.4k+ lines" />
   <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-22-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 22" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
+<p align="center"><sub>Counted across <b>all</b> my non-fork repos on GitHub — public + private — via the <code>/languages</code> API.</sub></p>
 <!-- COUNTERS:END -->
 
 ---
@@ -41,32 +42,135 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║  Independent engineer building high-performance, low-level       ║
-║  systems for industries that don't tolerate bugs:                ║
+║  I'm an independent engineer with a lot of own interesting       ║
+║  projects on GitHub — embedded firmware, automotive ECU work,    ║
+║  binary reverse engineering, algorithmic trading, AI agents,     ║
+║  DeFi, full-stack apps. Forty-plus repos and counting.           ║
 ║                                                                  ║
-║  🚗 Automotive ECU tuning, flashing & remapping                  ║
-║       └ CAN / UDS / KWP2000 / OBD-II / J1939 / DoIP              ║
-║       └ Bench / OBD / BDM / boot-mode flashing                   ║
-║       └ Custom maps, DPF/EGR/AdBlue off, immobilizer work        ║
+║  Pick anything below — there's something fun in every folder.    ║
 ║                                                                  ║
-║  🔬 Reverse engineering & binary analysis                        ║
-║       └ Firmware unpacking, patching, signature bypass           ║
-║       └ Ghidra / IDA Pro / Radare2 / Binary Ninja                ║
-║       └ ARM / Tricore / PowerPC / RH850 / x86 disassembly        ║
-║                                                                  ║
-║  ⚡ Algorithmic trading & HFT — crypto, forex, options, futures  ║
-║  🔧 Embedded firmware — ESP32, STM32, Arduino, FreeRTOS          ║
-║  📊 Quantitative ML — LSTM / Transformer market prediction       ║
-║  🔗 DeFi protocols, MEV bots, on-chain automation                ║
-║  🌐 Full-stack web & mobile applications                         ║
-║                                                                  ║
-║  Trusted by tuning studios & automotive shops across the CIS.    ║
-║  From silicon to cloud — I build what works.                     ║
+║  From silicon to cloud, hex bytes to React components —          ║
+║  I build what works.                                             ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> 💼 **Open for commercial work**: ECU calibration, custom flashing tools, OEM protocol reversing, embedded firmware contracts, NDA welcome. → [Vladimir120307@gmail.com](mailto:Vladimir120307@gmail.com)
+> 💼 **Open for commercial work** → [Vladimir120307@gmail.com](mailto:Vladimir120307@gmail.com)
+
+---
+
+## 💪 Skills & Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 Automotive ECU & Tuning
+- **ECU calibration & remapping**: Stage 1/2/3, custom maps for torque, fuel, ignition, lambda, boost, EGT
+- **Flashing modes**: Bench · OBD · BDM · boot-mode · JTAG · NDS3 · Tricore boot
+- **ECU families**: Bosch EDC15/EDC16/EDC17/MEDC17/MED17, Siemens SIMOS, Delphi, Continental, Continental SIM2K, Denso, Magneti Marelli
+- **Off-solutions**: DPF · EGR · AdBlue · SCR · Lambda · DTC · Speed · Immo
+- **Diag protocols**: CAN 2.0 A/B · UDS (ISO 14229) · KWP2000 (ISO 14230) · OBD-II (ISO 15765) · J1939 · DoIP · J2534 Pass-Thru
+- **Tools**: WinOLS · ECM Titanium · TunerPro RT · PCMFlash · KESS · KTAG · MPPS · Galletto
+- **Hardware**: Vector CANoe/CANalyzer · PCAN-USB · Kvaser · J-Link · ST-Link · Lauterbach
+- **Other**: Immobilizer & transponder work, key learning, EEPROM read/crack
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Reverse Engineering & Binary
+- **Disassemblers / decompilers**: Ghidra · IDA Pro + Hex-Rays · Radare2 · Binary Ninja · JEB · objdump
+- **Debuggers**: x64dbg · GDB · LLDB · WinDbg · OpenOCD
+- **Architectures**: x86 / x86-64 · ARM Cortex-M/R/A · Thumb · Infineon Tricore · PowerPC e200 · Renesas RH850 · AVR · MIPS · RISC-V
+- **Firmware work**: unpacking, patching, signature/checksum bypass, anti-tamper analysis, encryption identification (XTEA / AES / proprietary)
+- **Binary patching**: in-place hex edits, structural rebuilds, custom loaders
+- **Embedded debugging**: JTAG · SWD · SWO trace · ETM trace
+- **Hardware sec**: glitching basics, voltage/timing fault injection, side-channel awareness
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Algorithmic Trading & HFT
+- **Strategies**: ICT/SMC · Market Making · Statistical Arbitrage · Mean Reversion · Momentum · Iron Condor & Credit Spreads · Grid · MEV · Liquidation sniping · London Breakout
+- **Markets**: Crypto futures (Binance, Bybit, OKX), Forex (MetaTrader 5), US Stocks (IBKR, Alpaca), Options (IBKR), Polymarket prediction markets
+- **Execution**: low-latency Rust order-book engine (lock-free SPSC queues), Python `asyncio` event loops, C++ matching
+- **Backtesting**: custom event-driven engines, Pandas / NumPy, Monte Carlo, walk-forward
+- **Risk**: position sizing, Kelly, max drawdown gates, kill-switches, multi-account isolation
+- **Quant ML**: LSTM · Transformer · attention-based price-action models (PyTorch)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Embedded & IoT
+- **MCUs**: ESP32 (S2/S3/C3) · STM32 (F1/F4/H7) · ATmega · RP2040 · Raspberry Pi · Arduino
+- **Languages**: C · C++17/20 · Rust `no_std` · MicroPython · Assembly (ARM / AVR / Tricore)
+- **RTOS / runtimes**: FreeRTOS · Zephyr · bare-metal · Arduino · ESP-IDF · PlatformIO
+- **Comms**: MQTT · CoAP · Modbus RTU/TCP · BLE · LoRaWAN · NB-IoT · WiFi · I2C · SPI · UART · I2S · RS-485 · 1-Wire
+- **OTA, secure boot, signed firmware, dual-bank updates**
+- **HW design**: KiCad schematics & PCB, soldering, scope/logic-analyzer debugging
+- **Sensors / actuators**: IMU, GNSS, BME, DHT, motor drivers, stepper, servo, ADC/DAC
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / ML / Data Science
+- **Deep learning**: PyTorch · TensorFlow · Transformers (HF) · CNNs · LSTMs · attention models · RL basics
+- **Local LLM agents**: Ollama · llama.cpp · LM Studio · OpenAI / Anthropic SDK · long-term memory via embeddings
+- **Classical ML**: scikit-learn · XGBoost · LightGBM · CatBoost
+- **Data**: Pandas · NumPy · Polars · DuckDB · Apache Arrow
+- **Computer vision**: OpenCV · screenshot → working code (`mimic`)
+- **OSINT / scraping**: 65+ regex secret patterns, RU registries (ЕГРЮЛ/ФССП), VK/Telegram/Yandex, MCP server integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Blockchain & DeFi
+- **EVM**: Solidity · Foundry · Hardhat · Ethers.js · web3.py · viem
+- **Chains**: Ethereum · BSC · Polygon · Arbitrum · Optimism · Base · Solana (Anchor / Rust)
+- **DeFi protocols**: Uniswap V2/V3/V4 · Aave · Compound · Curve · Balancer · GMX
+- **MEV**: cross-DEX arbitrage · sandwich · JIT liquidity · liquidation sniping · Flashbots bundles
+- **On-chain bots**: Solana AI portfolio manager, autonomous trade execution
+- **Wallets**: multi-chain Flutter wallet with biometric auth, hardware wallet integration (Ledger / Trezor)
+- **Stablecoin / yield strategies, on-chain analytics**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack & Mobile
+- **Backend**: FastAPI · Django · Flask · Express · Node.js · .NET 6/8 · gRPC · WebSocket · REST
+- **Frontend**: React · Next.js · TypeScript · TailwindCSS · Material 3 · D3.js · TradingView Charting Library
+- **Mobile**: Flutter (Dart) — iOS & Android · Health Connect · biometric auth
+- **Desktop**: Qt6 / C++ · WPF / .NET · Electron · PySide6
+- **Auth**: OAuth2 · JWT · Passkeys · Biometric · 2FA
+- **Payments**: Stripe · Telegram Stars · crypto on-ramps
+- **Real-time**: WebSocket · Server-Sent Events · WebRTC basics
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ DevOps & Infrastructure
+- **Containers**: Docker · Docker Compose · Kubernetes · Helm
+- **CI/CD**: GitHub Actions · GitLab CI · self-hosted runners
+- **Cloud**: AWS (EC2, S3, Lambda, RDS, SQS) · Hetzner · DigitalOcean · Oracle Cloud
+- **IaC**: Terraform · Ansible
+- **Observability**: Grafana · Prometheus · InfluxDB + Telegraf · Loki · Sentry
+- **Reverse proxy**: Nginx · Caddy · Traefik · Cloudflare Tunnels
+- **Databases**: PostgreSQL · MongoDB · Redis · ClickHouse · SQLite · MySQL · InfluxDB · TimescaleDB
+- **Messaging**: RabbitMQ · Kafka · Redis Streams · NATS
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <sub>Browse the repos below to see all of it in action. 👇</sub>
+</div>
 
 ---
 
@@ -87,8 +191,8 @@
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-503-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 503" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-1.0k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 1.0k" />
-  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-12-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 12" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-1.1k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 1.1k" />
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-14-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 14" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-3-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 3" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
 </p>
@@ -118,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 14:23 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-05-30 16:24 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
