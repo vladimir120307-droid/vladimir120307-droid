@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,113</td><td align='center'>545</td><td align='center'>1,375</td><td align='center'>483</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>9,867</td><td align='center'>4,091</td><td align='center'>6,999</td><td align='center'>1,609</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>976</td><td align='center'>485</td><td align='center'>1,372</td><td align='center'>479</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>9,883</td><td align='center'>4,101</td><td align='center'>7,034</td><td align='center'>1,629</td></tr>
 </table>
 
 <details>
@@ -214,7 +214,7 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,083 | 524 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 946 | 464 |
 | 2 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 9 | 4 |
 | 3 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 4 | 4 |
 | 4 | [`vladimir120307-droid/realtime-market-dashboard`](https://github.com/vladimir120307-droid/realtime-market-dashboard) | 3 | 2 |
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-06-23 07:53 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-06-24 07:46 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
