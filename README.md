@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>869</td><td align='center'>430</td><td align='center'>1,362</td><td align='center'>481</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>9,917</td><td align='center'>4,124</td><td align='center'>7,064</td><td align='center'>1,654</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>752</td><td align='center'>363</td><td align='center'>1,354</td><td align='center'>475</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>9,918</td><td align='center'>4,125</td><td align='center'>7,098</td><td align='center'>1,675</td></tr>
 </table>
 
 <details>
@@ -216,13 +216,13 @@
 |---|---|---:|---:|
 | 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 839 | 409 |
 | 2 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 9 | 4 |
-| 3 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 4 | 4 |
+| 3 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 5 | 5 |
 | 4 | [`vladimir120307-droid/realtime-market-dashboard`](https://github.com/vladimir120307-droid/realtime-market-dashboard) | 3 | 2 |
 | 5 | [`vladimir120307-droid/room-tune-engine`](https://github.com/vladimir120307-droid/room-tune-engine) | 3 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-06-25 07:50 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-06-26 07:57 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
