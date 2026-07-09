@@ -185,13 +185,13 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-10.3k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 10.3k" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.3k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.3k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-10.4k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 10.4k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.4k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.4k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-7.5k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 7.5k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-1.9k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 1.9k" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-2.9k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 2.9k" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.0k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.0k" />
   <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-43-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 43" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-5-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 5" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>461</td><td align='center'>238</td><td align='center'>491</td><td align='center'>290</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,344</td><td align='center'>4,339</td><td align='center'>7,526</td><td align='center'>1,920</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>447</td><td align='center'>228</td><td align='center'>483</td><td align='center'>281</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,365</td><td align='center'>4,353</td><td align='center'>7,548</td><td align='center'>1,936</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 447 | 226 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 433 | 216 |
 | 2 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 5 | 3 |
-| 3 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 3 | 3 |
-| 4 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 3 | 3 |
+| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 4 | 4 |
+| 4 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 3 | 3 |
 | 5 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 2 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-08 06:32 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-09 07:50 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
