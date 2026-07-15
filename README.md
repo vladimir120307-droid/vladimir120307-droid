@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>319</td><td align='center'>188</td><td align='center'>453</td><td align='center'>260</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,468</td><td align='center'>4,413</td><td align='center'>7,709</td><td align='center'>2,025</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>310</td><td align='center'>183</td><td align='center'>459</td><td align='center'>259</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,499</td><td align='center'>4,427</td><td align='center'>7,743</td><td align='center'>2,044</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 306 | 177 |
-| 2 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 4 | 2 |
-| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 4 | 4 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 289 | 172 |
+| 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 12 | 4 |
+| 3 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 4 | 2 |
 | 4 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 3 | 3 |
 | 5 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-14 06:15 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-15 06:18 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
