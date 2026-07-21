@@ -27,9 +27,9 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-41-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 41" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-337.8k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 337.8k+ lines" />
-  <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-22-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 22" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-42-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 42" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-505.3k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 505.3k+ lines" />
+  <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-23-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 23" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
 <p align="center"><sub>Counted across <b>all</b> my non-fork repos on GitHub — public + private — via the <code>/languages</code> API.</sub></p>
@@ -188,7 +188,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-10.6k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 10.6k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.5k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.5k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-7.9k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 7.9k" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.1k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.1k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.2k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.2k" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.1k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.1k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>280</td><td align='center'>164</td><td align='center'>412</td><td align='center'>236</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,586</td><td align='center'>4,479</td><td align='center'>7,866</td><td align='center'>2,127</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>286</td><td align='center'>169</td><td align='center'>418</td><td align='center'>245</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,599</td><td align='center'>4,489</td><td align='center'>7,915</td><td align='center'>2,151</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 258 | 150 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 262 | 153 |
 | 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 16 | 8 |
-| 3 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 3 | 3 |
-| 4 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 3 | 3 |
+| 3 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 4 | 4 |
+| 4 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 2 | 2 |
 | 5 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-20 06:51 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-21 06:32 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
