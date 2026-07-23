@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>271</td><td align='center'>159</td><td align='center'>401</td><td align='center'>243</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,615</td><td align='center'>4,498</td><td align='center'>7,927</td><td align='center'>2,163</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>270</td><td align='center'>159</td><td align='center'>390</td><td align='center'>237</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,635</td><td align='center'>4,512</td><td align='center'>7,938</td><td align='center'>2,173</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 249 | 145 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 247 | 144 |
 | 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 16 | 8 |
 | 3 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 4 | 4 |
-| 4 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 1 | 1 |
+| 4 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 2 |
 | 5 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-22 06:32 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-23 06:33 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
