@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>281</td><td align='center'>163</td><td align='center'>383</td><td align='center'>236</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,656</td><td align='center'>4,523</td><td align='center'>7,954</td><td align='center'>2,187</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>283</td><td align='center'>167</td><td align='center'>397</td><td align='center'>242</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,676</td><td align='center'>4,535</td><td align='center'>7,990</td><td align='center'>2,211</td></tr>
 </table>
 
 <details>
@@ -214,7 +214,7 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 258 | 148 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 260 | 152 |
 | 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 15 | 7 |
 | 3 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 4 | 4 |
 | 4 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 2 |
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-24 06:29 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-25 06:21 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
