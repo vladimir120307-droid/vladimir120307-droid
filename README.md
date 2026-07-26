@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>283</td><td align='center'>167</td><td align='center'>397</td><td align='center'>242</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,676</td><td align='center'>4,535</td><td align='center'>7,990</td><td align='center'>2,211</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>249</td><td align='center'>148</td><td align='center'>388</td><td align='center'>234</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,676</td><td align='center'>4,535</td><td align='center'>8,007</td><td align='center'>2,225</td></tr>
 </table>
 
 <details>
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-25 06:21 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-26 06:40 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
