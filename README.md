@@ -186,7 +186,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-10.7k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 10.7k" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.5k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.5k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.6k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.6k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-8.0k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 8.0k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.2k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.2k" />
 </p>
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>249</td><td align='center'>148</td><td align='center'>388</td><td align='center'>234</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,676</td><td align='center'>4,535</td><td align='center'>8,007</td><td align='center'>2,225</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>253</td><td align='center'>154</td><td align='center'>383</td><td align='center'>235</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,710</td><td align='center'>4,557</td><td align='center'>8,023</td><td align='center'>2,240</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 260 | 152 |
-| 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 15 | 7 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 229 | 139 |
+| 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 17 | 8 |
 | 3 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 4 | 4 |
 | 4 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 2 |
 | 5 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-26 06:40 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-07-27 07:37 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
