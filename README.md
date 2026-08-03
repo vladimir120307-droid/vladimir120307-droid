@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>214</td><td align='center'>133</td><td align='center'>313</td><td align='center'>206</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,789</td><td align='center'>4,606</td><td align='center'>8,161</td><td align='center'>2,321</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>201</td><td align='center'>125</td><td align='center'>315</td><td align='center'>204</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,789</td><td align='center'>4,606</td><td align='center'>8,183</td><td align='center'>2,332</td></tr>
 </table>
 
 <details>
@@ -215,14 +215,14 @@
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
 | 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 234 | 136 |
-| 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 6 | 5 |
+| 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 3 | 2 |
 | 3 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 2 | 2 |
 | 4 | [`vladimir120307-droid/realtime-market-dashboard`](https://github.com/vladimir120307-droid/realtime-market-dashboard) | 2 | 2 |
 | 5 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 2 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-02 06:37 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-03 07:32 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
