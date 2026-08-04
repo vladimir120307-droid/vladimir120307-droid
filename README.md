@@ -185,7 +185,7 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-10.8k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 10.8k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-10.9k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 10.9k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.6k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.6k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-8.2k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 8.2k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.3k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.3k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>201</td><td align='center'>125</td><td align='center'>315</td><td align='center'>204</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>10,789</td><td align='center'>4,606</td><td align='center'>8,183</td><td align='center'>2,332</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>263</td><td align='center'>158</td><td align='center'>291</td><td align='center'>184</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>10,862</td><td align='center'>4,647</td><td align='center'>8,210</td><td align='center'>2,339</td></tr>
 </table>
 
 <details>
@@ -214,7 +214,7 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 234 | 136 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 255 | 151 |
 | 2 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 3 | 2 |
 | 3 | [`vladimir120307-droid/netprobe`](https://github.com/vladimir120307-droid/netprobe) | 2 | 2 |
 | 4 | [`vladimir120307-droid/realtime-market-dashboard`](https://github.com/vladimir120307-droid/realtime-market-dashboard) | 2 | 2 |
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-03 07:32 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-04 06:30 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
