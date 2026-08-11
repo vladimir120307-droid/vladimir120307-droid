@@ -188,7 +188,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-11.0k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 11.0k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-4.7k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 4.7k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-8.4k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 8.4k" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.4k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.4k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.5k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.5k" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.2k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.2k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>321</td><td align='center'>181</td><td align='center'>309</td><td align='center'>198</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>11,031</td><td align='center'>4,738</td><td align='center'>8,354</td><td align='center'>2,446</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>311</td><td align='center'>173</td><td align='center'>299</td><td align='center'>202</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>11,031</td><td align='center'>4,738</td><td align='center'>8,379</td><td align='center'>2,461</td></tr>
 </table>
 
 <details>
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-10 05:37 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-11 05:13 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
