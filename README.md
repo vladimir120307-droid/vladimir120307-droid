@@ -28,7 +28,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-44-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 44" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-596.2k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 596.2k+ lines" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-597.3k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 597.3k+ lines" />
   <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-23-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 23" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
@@ -205,7 +205,7 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>361</td><td align='center'>198</td><td align='center'>282</td><td align='center'>183</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>340</td><td align='center'>183</td><td align='center'>249</td><td align='center'>173</td></tr>
 <tr><td align='center'><b>All-time*</b></td><td align='center'>11,210</td><td align='center'>4,835</td><td align='center'>8,502</td><td align='center'>2,542</td></tr>
 </table>
 
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-17 04:47 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-18 04:39 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
