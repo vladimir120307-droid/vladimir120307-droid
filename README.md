@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>490</td><td align='center'>246</td><td align='center'>249</td><td align='center'>170</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>11,467</td><td align='center'>4,955</td><td align='center'>8,560</td><td align='center'>2,588</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>492</td><td align='center'>247</td><td align='center'>226</td><td align='center'>156</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>11,498</td><td align='center'>4,971</td><td align='center'>8,577</td><td align='center'>2,600</td></tr>
 </table>
 
 <details>
@@ -214,14 +214,14 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 515 | 252 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 508 | 254 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 9 | 4 |
-| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 5 | 4 |
+| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 3 | 3 |
 | 4 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-22 04:36 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-23 04:41 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
