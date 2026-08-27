@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>586</td><td align='center'>287</td><td align='center'>167</td><td align='center'>129</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>11,661</td><td align='center'>5,052</td><td align='center'>8,624</td><td align='center'>2,635</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>637</td><td align='center'>322</td><td align='center'>173</td><td align='center'>134</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>11,744</td><td align='center'>5,102</td><td align='center'>8,636</td><td align='center'>2,646</td></tr>
 </table>
 
 <details>
@@ -214,7 +214,7 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 590 | 291 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 623 | 313 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 10 | 5 |
 | 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 2 | 2 |
 | 4 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 1 | 1 |
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-26 04:43 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-08-27 15:04 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
