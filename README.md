@@ -185,13 +185,13 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-12.2k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 12.2k" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.3k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.3k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-12.3k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 12.3k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.4k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.4k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-8.8k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 8.8k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.8k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.8k" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.5k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.5k" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.6k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.6k" />
   <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-48-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 48" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-5-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 5" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>727</td><td align='center'>373</td><td align='center'>224</td><td align='center'>170</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>12,194</td><td align='center'>5,328</td><td align='center'>8,784</td><td align='center'>2,758</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>786</td><td align='center'>400</td><td align='center'>217</td><td align='center'>166</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>12,284</td><td align='center'>5,371</td><td align='center'>8,794</td><td align='center'>2,766</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 717 | 363 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 772 | 388 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 6 | 6 |
-| 3 | [`vladimir120307-droid/tradingview-webhook-bot`](https://github.com/vladimir120307-droid/tradingview-webhook-bot) | 2 | 2 |
-| 4 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 1 | 1 |
+| 3 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 5 | 3 |
+| 4 | [`vladimir120307-droid/tradingview-webhook-bot`](https://github.com/vladimir120307-droid/tradingview-webhook-bot) | 2 | 2 |
 | 5 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-04 08:41 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-05 08:13 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
