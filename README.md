@@ -28,7 +28,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-44-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 44" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-597.9k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 597.9k+ lines" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-599.6k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 599.6k+ lines" />
   <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-23-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 23" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
@@ -185,7 +185,7 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-12.3k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 12.3k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-12.4k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 12.4k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.4k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.4k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-8.8k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 8.8k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.8k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.8k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>786</td><td align='center'>400</td><td align='center'>217</td><td align='center'>166</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>12,284</td><td align='center'>5,371</td><td align='center'>8,794</td><td align='center'>2,766</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>863</td><td align='center'>435</td><td align='center'>240</td><td align='center'>179</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>12,394</td><td align='center'>5,423</td><td align='center'>8,830</td><td align='center'>2,788</td></tr>
 </table>
 
 <details>
@@ -214,7 +214,7 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 772 | 388 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 849 | 423 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 6 | 6 |
 | 3 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 5 | 3 |
 | 4 | [`vladimir120307-droid/tradingview-webhook-bot`](https://github.com/vladimir120307-droid/tradingview-webhook-bot) | 2 | 2 |
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-05 08:13 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-06 08:30 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
