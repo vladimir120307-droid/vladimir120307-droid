@@ -205,7 +205,7 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>863</td><td align='center'>435</td><td align='center'>240</td><td align='center'>179</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>807</td><td align='center'>405</td><td align='center'>227</td><td align='center'>169</td></tr>
 <tr><td align='center'><b>All-time*</b></td><td align='center'>12,394</td><td align='center'>5,423</td><td align='center'>8,830</td><td align='center'>2,788</td></tr>
 </table>
 
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-06 08:30 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-07 09:08 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
