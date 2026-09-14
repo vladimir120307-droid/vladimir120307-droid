@@ -185,10 +185,10 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-13.1k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 13.1k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-13.2k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 13.2k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.7k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.7k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.1k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.1k" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-2.9k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 2.9k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.0k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.0k" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.8k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.8k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,243</td><td align='center'>542</td><td align='center'>410</td><td align='center'>263</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>13,094</td><td align='center'>5,703</td><td align='center'>9,084</td><td align='center'>2,941</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,288</td><td align='center'>563</td><td align='center'>428</td><td align='center'>272</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>13,209</td><td align='center'>5,749</td><td align='center'>9,111</td><td align='center'>2,959</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,225 | 527 |
-| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 10 | 9 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,271 | 549 |
+| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 9 | 8 |
 | 3 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 4 | 2 |
 | 4 | [`vladimir120307-droid/invision-u-scoring`](https://github.com/vladimir120307-droid/invision-u-scoring) | 1 | 1 |
 | 5 | [`vladimir120307-droid/solana-ai-portfolio-manager`](https://github.com/vladimir120307-droid/solana-ai-portfolio-manager) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-13 09:18 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-14 09:42 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
