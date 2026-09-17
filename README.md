@@ -185,15 +185,15 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-13.4k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 13.4k" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.8k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.8k" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.1k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.1k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-13.5k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 13.5k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.9k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.9k" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.2k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.2k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.0k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.0k" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.8k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.8k" />
   <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-52-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 52" />
-  <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-7-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 7" />
+  <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-6-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 6" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
 </p>
 
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,328</td><td align='center'>580</td><td align='center'>398</td><td align='center'>253</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>13,382</td><td align='center'>5,835</td><td align='center'>9,147</td><td align='center'>2,985</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,346</td><td align='center'>580</td><td align='center'>426</td><td align='center'>269</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>13,454</td><td align='center'>5,862</td><td align='center'>9,193</td><td align='center'>3,014</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,306 | 564 |
-| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 12 | 10 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,320 | 564 |
+| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 16 | 10 |
 | 3 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 4 | 2 |
 | 4 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 3 | 1 |
 | 5 | [`vladimir120307-droid/invision-u-scoring`](https://github.com/vladimir120307-droid/invision-u-scoring) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-16 09:11 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-17 09:19 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
