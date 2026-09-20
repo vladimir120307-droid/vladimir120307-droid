@@ -185,14 +185,14 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-13.6k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 13.6k" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-5.9k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 5.9k" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.2k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.2k" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.0k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.0k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-13.7k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 13.7k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-6.0k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 6.0k" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.3k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.3k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.1k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.1k" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-3.9k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 3.9k" />
-  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-53-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 53" />
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-54-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 54" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-6-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 6" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
 </p>
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,352</td><td align='center'>573</td><td align='center'>444</td><td align='center'>279</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>13,636</td><td align='center'>5,944</td><td align='center'>9,238</td><td align='center'>3,045</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,281</td><td align='center'>541</td><td align='center'>429</td><td align='center'>274</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>13,675</td><td align='center'>5,964</td><td align='center'>9,259</td><td align='center'>3,062</td></tr>
 </table>
 
 <details>
@@ -214,7 +214,7 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,330 | 559 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,259 | 527 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 14 | 8 |
 | 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 4 | 2 |
 | 4 | [`vladimir120307-droid/invision-u-scoring`](https://github.com/vladimir120307-droid/invision-u-scoring) | 1 | 1 |
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-19 08:41 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-20 09:10 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
