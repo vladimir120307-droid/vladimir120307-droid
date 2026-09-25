@@ -192,7 +192,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-4.0k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 4.0k" />
-  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-54-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 54" />
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-55-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 55" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-6-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 6" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
 </p>
@@ -205,7 +205,7 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,126</td><td align='center'>496</td><td align='center'>395</td><td align='center'>278</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,027</td><td align='center'>463</td><td align='center'>336</td><td align='center'>241</td></tr>
 <tr><td align='center'><b>All-time*</b></td><td align='center'>13,933</td><td align='center'>6,087</td><td align='center'>9,357</td><td align='center'>3,135</td></tr>
 </table>
 
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-24 09:09 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-09-25 09:29 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
