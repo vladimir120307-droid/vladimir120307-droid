@@ -191,7 +191,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.3k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.3k" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-4.1k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 4.1k" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-4.2k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 4.2k" />
   <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-55-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 55" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-6-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 6" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,033</td><td align='center'>498</td><td align='center'>379</td><td align='center'>274</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>14,487</td><td align='center'>6,360</td><td align='center'>9,572</td><td align='center'>3,288</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>982</td><td align='center'>484</td><td align='center'>407</td><td align='center'>290</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>14,537</td><td align='center'>6,388</td><td align='center'>9,627</td><td align='center'>3,322</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,012 | 479 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 962 | 466 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 12 | 11 |
-| 3 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 3 | 2 |
-| 4 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 2 | 2 |
+| 3 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 2 | 2 |
+| 4 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 1 |
 | 5 | [`vladimir120307-droid/distributed-task-scheduler`](https://github.com/vladimir120307-droid/distributed-task-scheduler) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-01 10:48 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-02 10:23 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
