@@ -185,9 +185,9 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-14.5k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 14.5k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-14.6k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 14.6k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-6.4k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 6.4k" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.6k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.6k" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.7k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.7k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.3k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.3k" />
 </p>
 <p>
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>982</td><td align='center'>484</td><td align='center'>407</td><td align='center'>290</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>14,537</td><td align='center'>6,388</td><td align='center'>9,627</td><td align='center'>3,322</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>985</td><td align='center'>488</td><td align='center'>420</td><td align='center'>300</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>14,621</td><td align='center'>6,432</td><td align='center'>9,658</td><td align='center'>3,345</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 962 | 466 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 963 | 471 |
 | 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 12 | 11 |
-| 3 | [`vladimir120307-droid/mneme`](https://github.com/vladimir120307-droid/mneme) | 2 | 2 |
+| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 4 | 1 |
 | 4 | [`vladimir120307-droid/vladimir120307-droid`](https://github.com/vladimir120307-droid/vladimir120307-droid) | 2 | 1 |
 | 5 | [`vladimir120307-droid/distributed-task-scheduler`](https://github.com/vladimir120307-droid/distributed-task-scheduler) | 1 | 1 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-02 10:23 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-03 09:45 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
