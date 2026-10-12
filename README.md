@@ -185,10 +185,10 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-15.3k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 15.3k" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-6.7k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 6.7k" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-9.9k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 9.9k" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.5k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.5k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-15.4k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 15.4k" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-6.8k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 6.8k" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-10.0k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 10.0k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.6k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.6k" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-4.4k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 4.4k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,087</td><td align='center'>523</td><td align='center'>504</td><td align='center'>344</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>15,284</td><td align='center'>6,737</td><td align='center'>9,944</td><td align='center'>3,541</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,085</td><td align='center'>528</td><td align='center'>487</td><td align='center'>333</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>15,358</td><td align='center'>6,780</td><td align='center'>9,970</td><td align='center'>3,558</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,061 | 502 |
-| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 15 | 14 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,064 | 511 |
+| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 12 | 11 |
 | 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 5 | 2 |
 | 4 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 2 | 2 |
 | 5 | [`vladimir120307-droid/tradingview-webhook-bot`](https://github.com/vladimir120307-droid/tradingview-webhook-bot) | 2 | 2 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-11 10:41 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-12 11:46 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
