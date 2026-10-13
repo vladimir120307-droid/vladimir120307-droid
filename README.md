@@ -27,8 +27,8 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-44-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 44" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-603.5k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 603.5k+ lines" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-45-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 45" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-622.2k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 622.2k+ lines" />
   <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-23-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 23" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
@@ -185,7 +185,7 @@
 ### 📡 Live cross-repo telemetry
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-15.4k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 15.4k" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-15.5k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 15.5k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-6.8k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 6.8k" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-10.0k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 10.0k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-3.6k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 3.6k" />
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,085</td><td align='center'>528</td><td align='center'>487</td><td align='center'>333</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>15,358</td><td align='center'>6,780</td><td align='center'>9,970</td><td align='center'>3,558</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,116</td><td align='center'>537</td><td align='center'>499</td><td align='center'>343</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>15,452</td><td align='center'>6,829</td><td align='center'>10,013</td><td align='center'>3,587</td></tr>
 </table>
 
 <details>
@@ -214,15 +214,15 @@
 
 | # | Repository | Views | Unique |
 |---|---|---:|---:|
-| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,064 | 511 |
-| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 12 | 11 |
-| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 5 | 2 |
-| 4 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 2 | 2 |
+| 1 | [`vladimir120307-droid/yandex-music-downloader`](https://github.com/vladimir120307-droid/yandex-music-downloader) | 1,094 | 519 |
+| 2 | [`vladimir120307-droid/mimic`](https://github.com/vladimir120307-droid/mimic) | 11 | 10 |
+| 3 | [`vladimir120307-droid/wavesight`](https://github.com/vladimir120307-droid/wavesight) | 6 | 3 |
+| 4 | [`vladimir120307-droid/glaz-dyavola`](https://github.com/vladimir120307-droid/glaz-dyavola) | 3 | 3 |
 | 5 | [`vladimir120307-droid/tradingview-webhook-bot`](https://github.com/vladimir120307-droid/tradingview-webhook-bot) | 2 | 2 |
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-12 11:46 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-13 11:33 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
