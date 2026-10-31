@@ -187,12 +187,12 @@
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20Views%20All--time-16.7k-7c3aed?style=for-the-badge&labelColor=0d1117" alt="👁️ Views All-time: 16.7k" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Unique%20Visitors-7.5k-a855f7?style=for-the-badge&labelColor=0d1117" alt="🧬 Unique Visitors: 7.5k" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-10.6k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 10.6k" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Clones%20All--time-10.7k-3b82f6?style=for-the-badge&labelColor=0d1117" alt="📥 Clones All-time: 10.7k" />
   <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Unique%20Cloners-4.0k-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="👤 Unique Cloners: 4.0k" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-5.1k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 5.1k" />
-  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-64-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 64" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-5.2k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 5.2k" />
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-65-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 65" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-6-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 6" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-14-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 14" />
 </p>
@@ -205,8 +205,8 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>1,071</td><td align='center'>550</td><td align='center'>503</td><td align='center'>346</td></tr>
-<tr><td align='center'><b>All-time*</b></td><td align='center'>16,662</td><td align='center'>7,463</td><td align='center'>10,636</td><td align='center'>4,028</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>997</td><td align='center'>509</td><td align='center'>492</td><td align='center'>338</td></tr>
+<tr><td align='center'><b>All-time*</b></td><td align='center'>16,662</td><td align='center'>7,463</td><td align='center'>10,662</td><td align='center'>4,043</td></tr>
 </table>
 
 <details>
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-30 10:45 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-10-31 10:15 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
