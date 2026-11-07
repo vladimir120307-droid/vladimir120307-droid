@@ -1,4 +1,240 @@
 {
+  "vladimir120307-droid/aruco-alignment-demo": {
+    "clones": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 22,
+        "uniques": 12
+      }
+    },
+    "views": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/backtest-engine": {
+    "clones": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 15,
+        "uniques": 10
+      }
+    },
+    "views": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
   "vladimir120307-droid/distributed-task-scheduler": {
     "clones": {
       "2026-05-16": {
@@ -696,6 +932,10 @@
       "2026-11-05": {
         "count": 1,
         "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 9,
+        "uniques": 3
       }
     },
     "views": {
@@ -1392,6 +1632,128 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/esp32-fleet-telemetry": {
+    "clones": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 19,
+        "uniques": 13
+      }
+    },
+    "views": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -2094,6 +2456,10 @@
       "2026-11-05": {
         "count": 0,
         "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
       }
     },
     "views": {
@@ -2790,6 +3156,10 @@
         "uniques": 2
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -3492,6 +3862,10 @@
       "2026-11-05": {
         "count": 0,
         "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 2,
+        "uniques": 2
       }
     },
     "views": {
@@ -4188,6 +4562,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -4890,6 +5268,10 @@
       "2026-11-05": {
         "count": 1,
         "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 4,
+        "uniques": 3
       }
     },
     "views": {
@@ -5586,6 +5968,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -6288,6 +6674,10 @@
       "2026-11-05": {
         "count": 0,
         "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 1,
+        "uniques": 1
       }
     },
     "views": {
@@ -6985,6 +7375,10 @@
       },
       "2026-11-05": {
         "count": 1,
+        "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 2,
         "uniques": 1
       }
     }
@@ -7686,6 +8080,10 @@
       "2026-11-05": {
         "count": 2,
         "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 1,
+        "uniques": 1
       }
     },
     "views": {
@@ -8384,6 +8782,10 @@
       "2026-11-05": {
         "count": 4,
         "uniques": 4
+      },
+      "2026-11-06": {
+        "count": 2,
+        "uniques": 2
       }
     }
   },
@@ -9084,6 +9486,10 @@
       "2026-11-05": {
         "count": 1,
         "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 15,
+        "uniques": 5
       }
     },
     "views": {
@@ -9780,6 +10186,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -10482,6 +10892,10 @@
       "2026-11-05": {
         "count": 1,
         "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
       }
     },
     "views": {
@@ -11178,6 +11592,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -11880,6 +12298,10 @@
       "2026-11-05": {
         "count": 0,
         "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 1,
+        "uniques": 1
       }
     },
     "views": {
@@ -12576,6 +12998,128 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/serial-protocol-analyzer": {
+    "clones": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 19,
+        "uniques": 13
+      }
+    },
+    "views": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -13404,6 +13948,10 @@
       "2026-11-05": {
         "count": 1,
         "uniques": 1
+      },
+      "2026-11-06": {
+        "count": 3,
+        "uniques": 3
       }
     },
     "views": {
@@ -14100,6 +14648,246 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/sports-parent-iq-prototype": {
+    "clones": {
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-07": {
+        "count": 0,
+        "uniques": 0
+      }
+    },
+    "views": {
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-07": {
+        "count": 0,
+        "uniques": 0
+      }
+    }
+  },
+  "vladimir120307-droid/trade-copier-engine": {
+    "clones": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 23,
+        "uniques": 15
+      }
+    },
+    "views": {
+      "2026-10-24": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-25": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-26": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-27": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-28": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-29": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-30": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-10-31": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-01": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-02": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-03": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-04": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -14802,6 +15590,10 @@
       "2026-11-05": {
         "count": 2,
         "uniques": 2
+      },
+      "2026-11-06": {
+        "count": 1,
+        "uniques": 1
       }
     },
     "views": {
@@ -15498,6 +16290,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -16200,6 +16996,10 @@
       "2026-11-05": {
         "count": 17,
         "uniques": 9
+      },
+      "2026-11-06": {
+        "count": 23,
+        "uniques": 11
       }
     },
     "views": {
@@ -16896,6 +17696,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
@@ -17598,6 +18402,10 @@
       "2026-11-05": {
         "count": 0,
         "uniques": 0
+      },
+      "2026-11-06": {
+        "count": 2,
+        "uniques": 2
       }
     },
     "views": {
@@ -18294,6 +19102,10 @@
         "uniques": 0
       },
       "2026-11-05": {
+        "count": 0,
+        "uniques": 0
+      },
+      "2026-11-06": {
         "count": 0,
         "uniques": 0
       }
