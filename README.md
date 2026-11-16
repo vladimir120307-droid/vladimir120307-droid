@@ -28,7 +28,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Projects%20on%20GitHub-59-7c3aed?style=for-the-badge&labelColor=0d1117" alt="📦 Projects on GitHub: 59" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-827.1k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 827.1k+ lines" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Code%20on%20GitHub-827.2k%2B%20lines-1a1b4b?style=for-the-badge&labelColor=0d1117" alt="💾 Code on GitHub: 827.2k+ lines" />
   <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F%20Languages-24-4c1d95?style=for-the-badge&labelColor=0d1117" alt="🗣️ Languages: 24" />
   <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Top%20Lang-Python-a855f7?style=for-the-badge&labelColor=0d1117" alt="🥇 Top Lang: Python" />
 </p>
@@ -192,7 +192,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Release%20Downloads-6.3k-10b981?style=for-the-badge&labelColor=0d1117" alt="🚀 Release Downloads: 6.3k" />
-  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-73-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 73" />
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Total%20Stars-74-f59e0b?style=for-the-badge&labelColor=0d1117" alt="⭐ Total Stars: 74" />
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Total%20Forks-7-ef4444?style=for-the-badge&labelColor=0d1117" alt="🍴 Total Forks: 7" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Public%20Repos-26-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="📦 Public Repos: 26" />
 </p>
@@ -205,7 +205,7 @@
 <th align='center'>📥 Clones</th>
 <th align='center'>👤 Unique</th>
 </tr>
-<tr><td align='center'><b>Last 14 days</b></td><td align='center'>2,972</td><td align='center'>1,405</td><td align='center'>1,054</td><td align='center'>644</td></tr>
+<tr><td align='center'><b>Last 14 days</b></td><td align='center'>2,772</td><td align='center'>1,316</td><td align='center'>980</td><td align='center'>606</td></tr>
 <tr><td align='center'><b>All-time*</b></td><td align='center'>20,058</td><td align='center'>9,020</td><td align='center'>11,812</td><td align='center'>4,725</td></tr>
 </table>
 
@@ -222,7 +222,7 @@
 
 </details>
 
-<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-11-15 11:50 UTC</b> · refreshed daily via GitHub Actions</sub>
+<sub>* All-time counters start from the day this tracker first ran. GitHub Traffic API only exposes a rolling 14-day window — earlier numbers are accumulated locally in <code>data/traffic_history.json</code>.<br>⏱️ Last updated: <b>2026-11-16 12:32 UTC</b> · refreshed daily via GitHub Actions</sub>
 
 </div>
 
